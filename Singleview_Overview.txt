@@ -1,0 +1,17 @@
+REAL-TIME CHARGING, BILLING AND CUSTOMER CARE SOLUTION FOR CONVERGENT MARKETS
+
+In today’s digital world, operators need to do everything from creating personalized
+offers in real time to consumer markets of one, to managing enterprise customers with 
+hundreds to thousands of relationships. This will require increasing process agility, go-to-market
+pricing and bundling flexibility, and precision insights across all operations, from
+customer care to network management, from charging to revenue management, from
+content to partner management and beyond. 
+
+Singleview is a single solution for real-time rating, charging and billing, reducing costs
+and increasing consistency across your organization. Launch new services and scale quickly
+with a future-proofed architecture that grows with your business. Offer any pricing model
+and accept any type of payment, and maintain a unified view of the customer with pre-integrated 
+customer management. Singleview can run on any cloud, including AWS and Microsoft Azure, with 
+the scalability and security you need to support millions of subscribers and billions of transactions. 
+Over 70 leading wireline, wireless, IP carriers, and mobile virtual network operators (MVNOs) rely on 
+CSG Singleview to deliver real-time charging and postpaid billing. 
